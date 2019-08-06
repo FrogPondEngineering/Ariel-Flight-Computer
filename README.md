@@ -1,9 +1,9 @@
 # Ariel-Flight-Computer
-Repository for all files needed for the Ariel Flight Computer
+Repository for all files needed for the Ariel Flight Computer.
 The Ariel Flight Computer Project is released under a GNU General Public License 3.0.
 
 This project is one intended purely for educational uses, and has the final goal of active altitude control of a model rocket.
-
+Air Brake Mechanism Files (.stl) :
 You can find components here:
 
 N Channel Power Mosfets: 
