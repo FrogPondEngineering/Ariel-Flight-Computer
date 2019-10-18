@@ -4,10 +4,10 @@ The Ariel Flight Computer Project is released under a GNU General Public License
 
 This project is one intended purely for educational uses, and has the final goal of active altitude control of a model rocket.
 Air Brake Mechanism Files (.stl) : https://www.thingiverse.com/thing:3795320                                                                                                                                                                                                     
-You can find components here:
 
-N Channel Power Mosfets: 
-https://www.adafruit.com/product/355
+To open Board and schematic files simply drop them into the projects folder in EAGLE and open.
+
+You can find components here:
 
 Terminal Blocks: 
 https://www.adafruit.com/product/724
@@ -17,9 +17,6 @@ https://www.amazon.com/HiLetgo-ATmega328P-Micro-controller-Development-Compatibl
 
 PCB Blanks:
 https://www.amazon.com/gp/product/B01MRG7NHC/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
-
-470 Ohm Resistors: 
-https://www.adafruit.com/product/2781
 
 Ferric Chloride Etching Solution:
 https://www.amazon.com/gp/product/B008O9XMYA/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
